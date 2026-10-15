@@ -1,6 +1,6 @@
 ## Hi👋 I am Narendra
 # 💫 About Me:
-🧑‍🎓I'm currently studying 3nd year engineering<br>🧑‍💻I'm Computer Science student<br>
+🧑‍🎓I'm currently studying 3rd year engineering<br>🧑‍💻I'm Computer Science student<br>
 
 
 ## 🌐 Socials:
